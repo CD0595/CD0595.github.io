@@ -1,3 +1,5 @@
+http://example.com/2024/09/09/%E6%98%9F%E4%B9%8B%E8%BF%9F%E8%BF%9F2023-10-B%EF%BC%8811%E6%9C%8817%E6%89%93%E8%B5%8F%E7%BE%A4%E8%B5%84%E6%BA%90%EF%BC%89/
+http://example.com/2024/09/09/yuuhui%E7%8E%89%E6%B1%87-%E9%BA%A6%E5%BD%93%E5%8A%B3%E7%9A%84%E5%A5%B3%E6%9C%8D%E5%8A%A1%E5%91%98-149P/
 http://example.com/2024/09/09/%E4%B9%9D%E8%A8%80-%E5%8D%A1%E5%A4%AB%E5%8D%A1/
 http://example.com/2024/09/09/%E4%BA%8C%E9%98%B6%E5%A0%82-%E5%83%B5%E5%B0%B8-97P/
 http://example.com/2024/09/09/%E5%B0%8F%E5%90%89%E7%9A%84%E5%B0%8F%E9%95%87%E7%94%9F%E6%B4%BB/
@@ -16,4 +18,6 @@ http://example.com/tags/%E8%90%BD%E8%90%BDRaku/
 http://example.com/tags/%E6%B0%B4%E6%B7%BCAqua-%E5%85%83%E7%A5%9E-%E8%8E%AB%E7%BA%B3/
 http://example.com/tags/%E5%96%B5%E5%B0%8F%E5%90%89/
 http://example.com/tags/%E4%B9%9D%E8%A8%80/
+http://example.com/tags/yuuhui%E7%8E%89%E6%B1%87/
+http://example.com/tags/%E6%98%9F%E4%B9%8B%E8%BF%9F%E8%BF%9F/
 http://example.com/categories/cosplay/
