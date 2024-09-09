@@ -1,3 +1,5 @@
+http://example.com/2024/09/09/%E5%B0%8F%E5%90%89%E7%9A%84%E5%B0%8F%E9%95%87%E7%94%9F%E6%B4%BB/
+http://example.com/2024/09/09/%E6%B0%B4%E6%B7%BCAqua-%E5%8E%9F%E7%A5%9E-%E8%8E%AB%E5%A8%9C/
 http://example.com/2024/09/09/Jenny-%EC%A0%95%EC%A0%9C%EB%8B%88-DJAWA-Swimming-Lesson/
 http://example.com/2024/09/09/%E8%90%BD%E8%90%BDRaku-Nya-47P/
 http://example.com/2024/09/09/%E6%A1%9C%E4%BA%95%E5%AE%81%E5%AE%81-%E5%9B%B4%E8%A3%99%E5%8E%A8%E6%88%BF-85P-710MB/
@@ -9,4 +11,6 @@ http://example.com/tags/Jenny-%EC%A0%95%EC%A0%9C%EB%8B%88-DJAWA-Lesson/
 http://example.com/tags/%E5%A5%88%E6%B1%90%E9%85%B1nice/
 http://example.com/tags/%E6%A1%9C%E4%BA%95%E5%AE%81%E5%AE%81/
 http://example.com/tags/%E8%90%BD%E8%90%BDRaku/
+http://example.com/tags/%E6%B0%B4%E6%B7%BCAqua-%E5%85%83%E7%A5%9E-%E8%8E%AB%E7%BA%B3/
+http://example.com/tags/%E5%96%B5%E5%B0%8F%E5%90%89/
 http://example.com/categories/cosplay/
