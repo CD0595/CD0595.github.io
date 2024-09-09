@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2024/09/09/Zia[%EC%A7%80%EC%95%84V]ol.09-My-office-pet-102P/</loc>
+    
+    <lastmod>2024-09-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2024/09/09/Jisu-a-%EC%95%88%EC%A7%80%EC%88%98-%E2%80%93Birthday-100P/</loc>
+    
+    <lastmod>2024-09-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2024/09/09/JVID-%E6%A8%82%E6%A8%82-%E6%BF%80%E6%83%85%E8%BB%8A%E9%9C%87160P/</loc>
     
     <lastmod>2024-09-09</lastmod>
@@ -222,6 +240,20 @@
   
   <url>
     <loc>http://example.com/tags/%E6%A8%82%E6%A8%82/</loc>
+    <lastmod>2024-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Jisu-a-%EC%95%88%EC%A7%80%EC%88%98/</loc>
+    <lastmod>2024-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Zia-%EC%A7%80%EC%95%84-Bimilstory/</loc>
     <lastmod>2024-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
