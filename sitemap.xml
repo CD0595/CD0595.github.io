@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2024/09/14/%E4%BA%91%E6%BA%AA%E6%BA%AA-%E5%A5%B6%E6%A1%83%E6%A1%83-%E5%A5%88%E6%B1%90%E9%85%B1nice-%E5%8D%B1%E9%99%A9%E6%B8%B8%E6%88%8F-132P1V/</loc>
+    
+    <lastmod>2024-09-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2024/09/14/%E6%AF%94%E5%A5%87%E5%A0%A1%E9%BB%84%E5%A1%9E%E6%96%B9%E5%9D%97-%E7%94%98%E9%9B%A8%E7%8E%89%E6%A1%82%E7%8B%97/</loc>
+    
+    <lastmod>2024-09-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2024/09/14/%E7%B5%9E%E8%82%89%E5%A7%ACWalkure-%E7%8E%9B%E5%A5%87%E7%8E%9B%E9%80%86%E5%85%94%E5%A5%B3%E9%83%8E/</loc>
+    
+    <lastmod>2024-09-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2024/09/14/%E7%B5%9E%E8%82%89%E5%A7%ACWalkure-%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9FW%E6%84%9A%E5%A4%9C%E5%AF%86%E5%87%BD/</loc>
     
     <lastmod>2024-09-14</lastmod>
@@ -404,6 +431,20 @@
   
   <url>
     <loc>http://example.com/tags/%E9%9B%AA%E6%99%B4Astra/</loc>
+    <lastmod>2024-09-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/%E4%BA%91%E6%BA%AA%E6%BA%AA-%E5%A5%B6%E6%A1%83%E6%A1%83-%E5%A5%88%E6%B1%90%E9%85%B1nice/</loc>
+    <lastmod>2024-09-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/%E6%AF%94%E5%A5%87%E5%A0%A1%E9%BB%84%E5%A1%9E%E6%96%B9%E5%9D%97/</loc>
     <lastmod>2024-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
