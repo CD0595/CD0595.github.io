@@ -1,3 +1,4 @@
+http://example.com/2024/09/14/Byoru-Albedo-47P16V/
 http://example.com/2024/09/09/Zia[%EC%A7%80%EC%95%84V]ol.09-My-office-pet-102P/
 http://example.com/2024/09/09/Jisu-a-%EC%95%88%EC%A7%80%EC%88%98-%E2%80%93Birthday-100P/
 http://example.com/2024/09/09/JVID-%E6%A8%82%E6%A8%82-%E6%BF%80%E6%83%85%E8%BB%8A%E9%9C%87160P/
@@ -30,5 +31,6 @@ http://example.com/tags/%E9%B9%BF%E5%85%AB%E5%B2%81/
 http://example.com/tags/%E6%A8%82%E6%A8%82/
 http://example.com/tags/Jisu-a-%EC%95%88%EC%A7%80%EC%88%98/
 http://example.com/tags/Zia-%EC%A7%80%EC%95%84-Bimilstory/
+http://example.com/tags/Byoru/
 http://example.com/categories/cosplay/
 http://example.com/categories/portrait/
